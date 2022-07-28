@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @isaxzf
-- 👀 I’m interested in 
- isabelle.goncalves.fernandes.alura@gmail
-🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 
+- 👋 olá, eu sou @isaxzf
+- 👀 eu estou interresado em aprender a programar novas linguagens. 
+- 🌱 eu estou aprendendo a programar recentemente 
+-  meu email para contato é isabelle.goncalves.fernandes@escola.pr.gov.br
